@@ -1,0 +1,16 @@
+C:\Users\Long\source\repos\Caculator\Caculator\bin\Debug\net8.0-windows\Caculator.exe
+C:\Users\Long\source\repos\Caculator\Caculator\bin\Debug\net8.0-windows\Caculator.deps.json
+C:\Users\Long\source\repos\Caculator\Caculator\bin\Debug\net8.0-windows\Caculator.runtimeconfig.json
+C:\Users\Long\source\repos\Caculator\Caculator\bin\Debug\net8.0-windows\Caculator.dll
+C:\Users\Long\source\repos\Caculator\Caculator\bin\Debug\net8.0-windows\Caculator.pdb
+C:\Users\Long\source\repos\Caculator\Caculator\obj\Debug\net8.0-windows\Caculator.Form1.resources
+C:\Users\Long\source\repos\Caculator\Caculator\obj\Debug\net8.0-windows\Caculator.csproj.GenerateResource.cache
+C:\Users\Long\source\repos\Caculator\Caculator\obj\Debug\net8.0-windows\Caculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Long\source\repos\Caculator\Caculator\obj\Debug\net8.0-windows\Caculator.AssemblyInfoInputs.cache
+C:\Users\Long\source\repos\Caculator\Caculator\obj\Debug\net8.0-windows\Caculator.AssemblyInfo.cs
+C:\Users\Long\source\repos\Caculator\Caculator\obj\Debug\net8.0-windows\Caculator.csproj.CoreCompileInputs.cache
+C:\Users\Long\source\repos\Caculator\Caculator\obj\Debug\net8.0-windows\Caculator.dll
+C:\Users\Long\source\repos\Caculator\Caculator\obj\Debug\net8.0-windows\refint\Caculator.dll
+C:\Users\Long\source\repos\Caculator\Caculator\obj\Debug\net8.0-windows\Caculator.pdb
+C:\Users\Long\source\repos\Caculator\Caculator\obj\Debug\net8.0-windows\Caculator.genruntimeconfig.cache
+C:\Users\Long\source\repos\Caculator\Caculator\obj\Debug\net8.0-windows\ref\Caculator.dll
