@@ -1,8 +1,9 @@
 # winform_stuff
 just some winform c#
 
-- Timer : Using Time In winform
-- Caculator : Convert Input to RPN and Caculate ~~
+- Timer (Winform) : Using Time In winform
+- Caculator (Winform): Convert Input to RPN and Caculate ~~
+- Simple Bank (WPF): Contain 2 UI (Admin And User) , using Txt File as Storage bcs I haven't learn any db ('-')
 
 
 
