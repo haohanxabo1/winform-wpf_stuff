@@ -3,7 +3,7 @@ just some winform/wpf c#
 
 - Timer (Winform) : Using Time In winform
 - Caculator (Winform): Convert Input to RPN and Caculate ~~
-- Simple Bank (WPF): Contain 2 UI (Admin And User) , using Txt File as Storage bcs I haven't learn any db ('-')
+- Simple Bank (WPF): Contain 2 UI (Admin And User) , using Txt File as Storage bcs I haven't learn any others db ('-')
 
 
 
