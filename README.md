@@ -1,5 +1,5 @@
-# winform_stuff
-just some winform c#
+# winform/wpf_stuff
+just some winform/wpf c#
 
 - Timer (Winform) : Using Time In winform
 - Caculator (Winform): Convert Input to RPN and Caculate ~~
